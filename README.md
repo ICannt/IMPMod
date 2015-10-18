@@ -1,5 +1,5 @@
-Material Foundation
-===================
+IMP Mod
+=======
 
 Official companion mod for the ICannt Mod Pack (IMP).
 
