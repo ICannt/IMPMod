@@ -1,0 +1,17 @@
+[
+    {
+        "modid": "impmod",
+        "name": "IMP Mod",
+        "description": "IMP Mod",
+        "version": "1.0.0",
+        "mcversion": "1.7.10",
+        "url": "https://icannt.org",
+        "updateUrl": "",
+        "authorList": ["trab"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "requiredMods":[],
+        "dependencies":[]
+    }
+]

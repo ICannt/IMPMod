@@ -1,0 +1,36 @@
+﻿
+itemGroup.impmod=IMP Mod
+
+item.impmod.tool.icanntium_axe.name=ICanntium Axe
+item.impmod.tool.icanntium_pickaxe.name=ICanntium Pickaxe
+item.impmod.tool.icanntium_shovel.name=ICanntium Shovel
+item.impmod.weapon.icanntium_sword.name=ICanntium Sword
+item.impmod.tool.icanntium_fortune_pickaxe.name=ICanntium Fortune Pickaxe
+item.impmod.weapon.icanntium_super_sword.name=ICanntium Super Sword
+
+item.impmod.armor.icanntium_helmet.name=ICanntium Helmet
+item.impmod.armor.icanntium_chestplate.name=ICanntium Chestplate
+item.impmod.armor.icanntium_leggings.name=ICanntium Leggings
+item.impmod.armor.icanntium_boots.name=ICanntium Boots
+
+item.impmod.mineral.dust_icanntium.name=ICanntium Dust
+item.impmod.mineral.dust_koobynite.name=Koobynite Dust
+item.impmod.mineral.dust_trabnetium.name=Trabnetium Dust
+item.impmod.mineral.dust_p1cwh0rium.name=P1cwh0rium Dust
+item.impmod.mineral.dust_camstaticium.name=Camstaticium Dust
+item.impmod.mineral.dust_grovergen.name=Grovergen Dust
+item.impmod.mineral.dust_princecatnium.name=Princecatnium Dust
+item.impmod.mineral.dust_kambrookton.name=Kambrookton Dust
+
+item.impmod.mineral.dust_icanntium.tooltip=Found on the internets
+item.impmod.mineral.dust_koobynite.tooltip=Found in crusty red couches
+item.impmod.mineral.dust_trabnetium.tooltip=Found in fridges
+item.impmod.mineral.dust_p1cwh0rium.tooltip=Found in warehouses on bald surfaces
+item.impmod.mineral.dust_camstaticium.tooltip=Found in the ashes of drum fires
+item.impmod.mineral.dust_grovergen.tooltip=Found on Sesame Street
+item.impmod.mineral.dust_princecatnium.tooltip=Found in royal family cat furballs
+item.impmod.mineral.dust_kambrookton.tooltip=Found at your local wreckers
+
+item.impmod.mineral.ingot_icanntium.name=ICanntium Ingot
+
+item.impmod.mineral.ingot_icanntium.tooltip=Does not require Novemquadraguple Compressed Cobblestone (yet)
